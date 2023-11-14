@@ -1,0 +1,6 @@
+XML_ID;LAST_NAME;NAME;SECOND_NAME;DEPARTMENT;WORK_POSITION;EMAIL;MOBILE_PHONE;PHONE;LOGIN;PASSWORD
+CN001;Иванова;Ирина;Витальевна;OU001;Руководитель департамента;iivanova@company.ru;+7(496)777-77-77;;iivanova;iivanova
+CN002;Сергеев;Константин;Игоревич;OU002;Маркетолог;ksergeev@company.ru;;;ksergeev;ksergeev
+CN003;Бучельников;Николай;Иванович;OU003;Рекрутер;nbuchelnikov@company.ru;;+7996 66666 96;nbuchelnikov;nbuchelnikov
+CN004;Гулина;Алена;Евгеньевна;OU005;Специалист;agulina@company.ru;;+79221110500;agulina;agulina
+CN005;Калашников;Евгений;Валентинович;OU005;Руководитель департамента;ekalashnikov@company.ru;74232497777;74957556983;ekalashnikov;ekalashnikov
